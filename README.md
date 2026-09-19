@@ -81,6 +81,8 @@ A machine-learning-powered cardiovascular disease risk prediction web applicatio
 - **GitHub:** [Indra-2005](https://github.com/Indra-2005)
 - **LinkedIn:** [Devendra Bhoi](https://www.linkedin.com/in/devendra-bhoi-21a720243?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
+- **Portfolio:** [Devendra Bhoi](https://devendra-bhoi.vercel.app/)
+
 ---
 
 ⭐ Feel free to explore my repositories and projects.
